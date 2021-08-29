@@ -1,3 +1,14 @@
+
+
+
+# About the Project
+This project is created to build the front-end of a search engine that searches countries through a name input and shows introduction information about countries. For countries' data, [restcountries] API is used through [axios]. With some additional CSS code and new features,
+this project was fun to make.
+
+[axios]: <https://axios-http.com/docs/intro>
+[restcountries]: <https://restcountries.eu>
+
+<!---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-->
