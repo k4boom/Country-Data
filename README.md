@@ -2,7 +2,7 @@
 
 
 # About the Project
-This project is created to build the front-end of a search engine that searches countries through a name input and shows introduction information about countries. For countries' data, [restcountries] API is used through [axios]. With some additional CSS code and new features,
+This project is created with React.js and is created to build the front-end of a search engine that searches countries through a name input and shows introduction information about countries. For countries' data, [restcountries] API is used through [axios]. With some additional CSS code and new features,
 this project was fun to make.
 
 [axios]: <https://axios-http.com/docs/intro>
